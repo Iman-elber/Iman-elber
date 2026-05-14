@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Iman. I'm a Frontend Developer and UI/UX focused Computer Science student passionate about building modern, responsive, and user-centred web experiences.
 
-<!--
-**Iman-elber/Iman-elber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Laravel
+- Figma
 
-Here are some ideas to get you started:
+## Currently Working On
+- Responsive web applications
+- Frontend UI development
+- Interactive user experiences
+- Modern web interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- LogIQ – Modern e-commerce platform
+
+## Goals
+- Strengthen frontend engineering skills
+- Build production-quality web applications
+- Create clean and accessible interfaces
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/iman-abbas-el-ber-7b51a9320
+- Email: eiman.06@outlook.com
