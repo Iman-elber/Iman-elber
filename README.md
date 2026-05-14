@@ -15,7 +15,8 @@ I'm a frontend developer and UI/UX-focused Computer Science student passionate a
 - Modern web interfaces
 
 ## Featured Projects
-- LogIQ – Modern e-commerce platform
+- LogIQ – Modern e-commerce platform focused on clean UI and responsive user experience.
+- Virtual Kitchen -  Basic web-based virtual kitchen system with frontend and backend integration.
 
 ## Goals
 - Strengthen frontend engineering skills
