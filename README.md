@@ -5,7 +5,9 @@ I'm a frontend developer and UI/UX-focused Computer Science student passionate a
 - HTML
 - CSS
 - JavaScript
+- PHP
 - Laravel
+- Blade
 - Figma
 
 ## Currently Working On
