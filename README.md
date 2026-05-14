@@ -1,4 +1,5 @@
-Hi, I'm Iman. I'm a Frontend Developer and UI/UX focused Computer Science student passionate about building modern, responsive, and user-centred web experiences.
+Hi, I'm Iman. 
+I'm a frontend developer and UI/UX-focused Computer Science student passionate about building modern, responsive, and user-centred web experiences.
 
 ## Tech Stack
 - HTML
